@@ -50,6 +50,13 @@ o	Primary KPI’s :-
 
 
 
+
+
+
+
+
+
+
 # Quick Summary
 
 1. Imported the dataset in Power BI and did a bit of cleaning using Power Querry Editor.
